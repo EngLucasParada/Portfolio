@@ -8,7 +8,7 @@ Acredito firmemente que ser protagonista, buscar aprendizado constante e cultiva
 
 Comprometido em aprimorar ainda mais o projeto, com futuras versões planejadas para aprofundamento da linguagem e incorporar práticas inovadoras. Fiquem atentos para mais atualizações! 🚀
 
-Projeto: [https://lnkd.in/db2bTF_D](https://englucasparada.netlify.app/)
+Projeto: https://englucasparada.netlify.app/
 
 —---------------
 
@@ -20,6 +20,6 @@ I firmly believe that being a protagonist, seeking constant learning and cultiva
 
 I am committed to further improving the project, with future versions planned to deepen the language and incorporate innovative practices. Stay tuned for more updates! 🚀
 
-Project: [https://lnkd.in/db2bTF_D](https://englucasparada.netlify.app/)https://englucasparada.netlify.app/
+Project: https://englucasparada.netlify.app
 
 
